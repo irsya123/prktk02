@@ -10,6 +10,13 @@ public class jajargenjangaksi {
         jg1.cetakinfo();
         System.out.println("Luas jajargenjang="+jg1.hitungluas());
         jg1.cetakluas();
+        
+        Jajargenjang jg2 = new Jajargenjang();
+        jg2.cetakinfo();
+        
+        Jajargenjang jg3 = new Jajargenjang();
+        jg3.cetakinfo();
+       
     }
     
 }
