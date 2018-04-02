@@ -8,6 +8,7 @@ public class jajargenjangaksi {
         jg1.tinggi = 25;
         
         jg1.cetakinfo();
+        System.out.println("Luas jajargenjang="+jg1.hitungluas());
     }
     
 }
