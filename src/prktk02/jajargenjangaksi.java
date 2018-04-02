@@ -9,6 +9,7 @@ public class jajargenjangaksi {
         
         jg1.cetakinfo();
         System.out.println("Luas jajargenjang="+jg1.hitungluas());
+        jg1.cetakluas();
     }
     
 }
